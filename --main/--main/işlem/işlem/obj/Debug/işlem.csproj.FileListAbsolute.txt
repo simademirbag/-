@@ -1,0 +1,10 @@
+C:\Users\90544\source\repos\işlem\işlem\bin\Debug\işlem.exe.config
+C:\Users\90544\source\repos\işlem\işlem\bin\Debug\işlem.exe
+C:\Users\90544\source\repos\işlem\işlem\bin\Debug\işlem.pdb
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.csproj.AssemblyReference.cache
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.Form1.resources
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.Properties.Resources.resources
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.csproj.GenerateResource.cache
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.exe
+C:\Users\90544\source\repos\işlem\işlem\obj\Debug\işlem.pdb
